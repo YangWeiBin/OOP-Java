@@ -1,1 +1,7 @@
-/blob
+/blob  
+.idea/
+OOPJavaCode/bin
+OOPJavaCode/.settings
+OOPJavaCode/.classpath  
+OOPJavaCode/.project   
+*.xls*  
