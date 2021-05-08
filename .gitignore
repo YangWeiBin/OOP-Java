@@ -1,8 +1,8 @@
 .idea/
-OOPJavaCode/bin/
-OOPJavaCode/.settings/
-OOPJavaCode/.classpath/
-OOPJavaCode/.project/   
+*/bin/
+*/.settings/
+*/.classpath/
+*/.project/   
 *.xls*  
 
 # 一些目录
